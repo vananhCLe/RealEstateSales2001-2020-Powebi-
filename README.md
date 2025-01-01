@@ -17,6 +17,7 @@ Dieses Projekt bietet eine umfassende Analyse des Immobilienmarktes von 2001 bis
 ## Datensatzübersicht
 Wir werden mit einem Datensatz von Kaggle arbeiten:
 * Real Estate Sales 2001-2020: Sie können mehr darüber lesen [here](https://www.kaggle.com/datasets/derrekdevon/real-estate-sales-2001-2020?resource=download)
+  
 Der verwendete Datensatz enthält die folgenden Spalten:
 - **Serial Number**: Eindeutige ID für jede Transaktion
 - **List Year**: Jahr der Auflistung
