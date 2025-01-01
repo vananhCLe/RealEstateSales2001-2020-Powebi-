@@ -10,12 +10,13 @@ Dieses Projekt bietet eine umfassende Analyse des Immobilienmarktes von 2001 bis
 2. [Dashboard-Highlights](#dashboard-highlights)
 3. [Datenanalyse und Erkenntnisse](#datenanalyse-und-erkenntnisse)
 4. [Technologien und Tools](#technologien-und-tools)
-5. [Ausführung](#ausführung)
-6. [Zukünftige Verbesserungen](#zukünftige-verbesserungen)
+5. [Zukünftige Verbesserungen](#zukünftige-verbesserungen)
 
 ---
 
 ## Datensatzübersicht
+Wir werden mit einem Datensatz von Kaggle arbeiten:
+* Real Estate Sales 2001-2020: Sie können mehr darüber lesen [here](https://www.kaggle.com/datasets/derrekdevon/real-estate-sales-2001-2020?resource=download)
 Der verwendete Datensatz enthält die folgenden Spalten:
 - **Serial Number**: Eindeutige ID für jede Transaktion
 - **List Year**: Jahr der Auflistung
@@ -65,19 +66,7 @@ Der verwendete Datensatz enthält die folgenden Spalten:
 ---
 
 ## Technologien und Tools
-- **Programmiersprache**: Python
-- **Bibliotheken**:
-  - `pandas`
-  - `matplotlib`
-  - `seaborn`
 - **Dashboard-Tools**: Microsoft Power BI
-
----
-
-## Ausführung
-1. Klonen Sie dieses Repository: `git clone <repository-url>`
-2. Installieren Sie die erforderlichen Python-Bibliotheken: `pip install -r requirements.txt`
-3. Öffnen Sie die Power BI-Datei, um das interaktive Dashboard anzuzeigen.
 
 ---
 
